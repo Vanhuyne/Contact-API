@@ -9,12 +9,12 @@ To set up the backend of the application, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/backend-repo.git
+    git clone https://github.com/Vanhuyne/Contact-API.git
     ```
 
 2. **Navigate to the backend directory:**
     ```bash
-    cd backend-repo
+    cd back-end
     ```
 
 3. **Install dependencies:**
@@ -32,12 +32,12 @@ To set up the frontend of the application, proceed with the following steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/frontend-repo.git
+    git clone https://github.com/Vanhuyne/Contact-API.git
     ```
 
 2. **Navigate to the frontend directory:**
     ```bash
-    cd frontend-repo
+    cd front-end
     ```
 
 3. **Install dependencies using npm or yarn:**
